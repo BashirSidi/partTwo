@@ -1,0 +1,23 @@
+h1 {
+	color: green;
+	font-weight: bolder;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+	font-weight: bolder;
+	font-family: 'Courier New', Courier, monospace;
+}
+body {
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.errorMessage {
+	color: green;
+	background: lightgrey;
+	font-size: 20px;
+	border-style: solid;
+	border-radius: 5px;
+	padding: 10px;
+	margin-bottom: 10px;
+}
